@@ -5,7 +5,7 @@ This project contains a fortran code for Computing Wind Speed and Direction from
 U=u Component of the wind
 v=v Component of the wind
 rs= Wind speed
-rd= Wins direction	        
+rd= Wind direction	        
 		
 		
 		
