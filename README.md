@@ -1,10 +1,10 @@
 # wind-spd-dir-fortran
 Compute Wind Speed and Direction using Fortran
-	     real u,v,rs,rd
-	     open (10,file='	inputfile.txt',status='old') #insert your input file name here
-	     open(12,file='outputfile.txt',status='unknown')#insert your output file name here
-       pi=atan(1.0e00)*4.0
-  	   rad=pi/180.0
+	         real u,v,rs,rd
+	        open (10,file='	inputfile.txt',status='old') #insert your input file name here
+	        open(12,file='outputfile.txt',status='unknown')#insert your output file name here
+                pi=atan(1.0e00)*4.0
+  	        rad=pi/180.0
   
        c100	read(10,*,end=98)month,date,u,v
        100	read(10,*,end=98)u,v
