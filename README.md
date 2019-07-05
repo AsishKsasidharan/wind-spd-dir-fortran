@@ -1,6 +1,6 @@
 # wind-spd-dir-fortran
 This project contains a fortran code for Computing Wind Speed and Direction from u and v wind components.
-
+#This code is for computing wind speed and direction form a file contains U and V components (column-wise)
 
 U=u Component of the wind
 v=v Component of the wind
